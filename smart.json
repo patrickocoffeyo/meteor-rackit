@@ -1,0 +1,8 @@
+{
+  "name": "pkgcloud",
+  "description": "Meteor package for pkgcloud Npm module",
+  "homepage": "https://github.com/patrickocoffeyo/meteor-pkgcloud",
+  "author": "Patrick Coffey  (http://patrickcoffey.io)",
+  "version": "0.0.1",
+  "git": "https://github.com/patrickocoffeyo/meteor-pkgcloud.git"
+}
